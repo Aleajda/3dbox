@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3dbox/static/css/main.4fc7c957.css",
+    "main.js": "/3dbox/static/js/main.bdbb00d4.js",
+    "static/js/453.ed3810f9.chunk.js": "/3dbox/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/3dbox/index.html",
+    "main.4fc7c957.css.map": "/3dbox/static/css/main.4fc7c957.css.map",
+    "main.bdbb00d4.js.map": "/3dbox/static/js/main.bdbb00d4.js.map",
+    "453.ed3810f9.chunk.js.map": "/3dbox/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc7c957.css",
+    "static/js/main.bdbb00d4.js"
+  ]
+}
